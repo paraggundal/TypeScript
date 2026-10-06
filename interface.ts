@@ -27,3 +27,10 @@ const drink = {
 
 printSummary(vehicle)
 printSummary(drink)
+
+/* 
+   Interface Creates a new type, defined by user, It acts as a gatekeeper for function,
+   The Argument passed to function must be interface
+   Use Object properties to work with the function created
+   This is General Strategy to reuse the code block, as mentioned in example above
+*/
